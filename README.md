@@ -90,11 +90,15 @@ The `authorization_changed(int)` signal will be triggered when the user has made
 
 #### C\#
 
-work in progress...
+<https://github.com/WolfBearGames/Geolocation-Csharp-Wrapper>
 
 #### GDScript
 
-work in progress...
+<https://github.com/WolfBearGames/Geolocation-GDScript-Wrapper>
+
+### Example Test App
+
+<https://github.com/WolfBearGames/GeolocationTestApp>
 
 ### Enums
 
